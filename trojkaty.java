@@ -34,4 +34,4 @@ class Trojkaty {
         jakiTrojkat(a, b, c);
     }
 }
-/**test123213
+/**test12
